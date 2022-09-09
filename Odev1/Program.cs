@@ -75,7 +75,11 @@ namespace Odev1
                     }
                     else
                     {
-                        Console.WriteLine($"{i}. Girilen sayı : {val}");
+                        if (val%2==0)
+                        {
+                            Console.WriteLine($"Çift sayınız  : {val}");
+
+                        }                     
                         break;
                     }
                 }           
