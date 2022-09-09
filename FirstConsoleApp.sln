@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstConsoleApp", "FirstCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev1", "Odev1\Odev1.csproj", "{94E9807B-89B5-4431-B0C5-61930B386C7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2", "Odev2\Odev2.csproj", "{7392E201-D150-46C6-B6B5-8FD7BEC06356}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{94E9807B-89B5-4431-B0C5-61930B386C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94E9807B-89B5-4431-B0C5-61930B386C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94E9807B-89B5-4431-B0C5-61930B386C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7392E201-D150-46C6-B6B5-8FD7BEC06356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7392E201-D150-46C6-B6B5-8FD7BEC06356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7392E201-D150-46C6-B6B5-8FD7BEC06356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7392E201-D150-46C6-B6B5-8FD7BEC06356}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
